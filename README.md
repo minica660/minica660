@@ -31,3 +31,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://badgen.org/img/zenn/minica660/articles?style=plastic" />
   </a>
 </p>
+
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=minica660&show_icons=true&theme=radical)
