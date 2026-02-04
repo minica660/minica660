@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=minica660&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=minica660&show_icons=true&theme=radical)
