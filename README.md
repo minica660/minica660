@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minica660&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minica660&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minica660&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minica660&theme=gruvbox)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minica660&theme=gruvbox&utcOffset=9)
 
 
 
