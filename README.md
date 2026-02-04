@@ -34,4 +34,13 @@ Here are some ideas to get you started:
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=minica660&show_icons=true&theme=radical)
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minica660&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minica660&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minica660&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minica660&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minica660&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=minica660&theme=gruvbox)
+
