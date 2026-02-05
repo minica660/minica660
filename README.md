@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 -->
 <p align="left">
   <a href="https://github.com/minica660">
-    <img height="20" src="https://komarev.com/ghpvc/?username=minica660" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=minica660&color=brightgreen" />
   </a>
   <a href="https://github.com/minica660">
-    <img height="20" src="https://img.shields.io/github/followers/minica660?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/minica660?label=follow&logo=github&style=flat&color=brightgreen" />
   </a>
 </p>
 
 
 
 ## Stats
-
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minica660&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minica660&theme=gruvbox)
