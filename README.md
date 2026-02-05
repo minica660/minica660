@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 
 
 ## Stats
+![](https://raw.githubusercontent.com/minica660/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minica660&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=minica660&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=minica660&theme=gruvbox)
