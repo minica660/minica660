@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img height="20" src="https://komarev.com/ghpvc/?username=minica660&color=brightgreen" />
   </a>
   <a href="https://github.com/minica660">
-    <img height="20" src="https://img.shields.io/github/followers/minica660?label=follow&logo=github&style=flat&color=brightgreen" />
+    <img height="20" src="https://img.shields.io/github/followers/minica660?label=follow&logo=github&style=flat" />
   </a>
 </p>
 
