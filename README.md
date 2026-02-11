@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 
 #Stats2
 
-[![](https://raw.githubusercontent.com/minica660/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/minica660/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/minica660/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/minica660/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minica660/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/minica660/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/minica660/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/minica660/github-profile-summary-cards) [![](https://raw.githubusercontent.com/minica660/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/minica660/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/minica660/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/1-repos-per-language.svg)
 
 
 
