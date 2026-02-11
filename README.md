@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 #Stats2
 
-![](https://raw.githubusercontent.com/minica660/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/gotham/1-repos-per-language.svg)
 
 
 
